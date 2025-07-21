@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+.add-btn,
+.edit-btn,
+.delete-btn{
+    padding: 10px;
+    color: white;
+    background: #4b6fca;
+    border: none;
+    border-radius: 5px;
+}
+.group-btn{
+    text-align: center;
+}
+table{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+th{
+    color: white;
+    background: #4b6fca;
+}
+th, td{
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+a{
+    text-decoration: none;
+}
